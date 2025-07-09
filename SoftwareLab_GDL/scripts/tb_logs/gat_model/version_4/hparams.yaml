@@ -1,0 +1,7 @@
+dropout: 0.3
+hidden_dim: 640
+in_edge_features: 15
+in_node_features: 14
+lr: 0.001
+num_classes: 27
+num_layers: 6
